@@ -1,5 +1,9 @@
 # PluginTutorial
 
+Wholesome team Discord:
+
+https://discord.gg/NEq4VA6
+
 WotLK LUA Documentation:
 
 https://web.archive.org/web/20100726112636/http://wowprogramming.com/docs/api_categories
