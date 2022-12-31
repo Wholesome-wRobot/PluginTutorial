@@ -1,5 +1,9 @@
 # PluginTutorial
 
+Video:
+
+https://www.youtube.com/watch?v=BJ_eU4TO5K0
+
 Wholesome team Discord:
 
 https://discord.gg/NEq4VA6
